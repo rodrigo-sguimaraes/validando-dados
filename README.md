@@ -1,1 +1,3 @@
 # validando-dados
+
+Assuntos estudados: factory, POO, estrutura de dado brasileira, continue...
